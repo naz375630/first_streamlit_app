@@ -1,6 +1,8 @@
 import streamlit
-streamlit.title('Hello my first App')
-streamlit.header('This the the header')
-streamlit.text('This is text line 1')
-streamlit.text('This is text line 2')
-streamlit.text('This is text line 3')
+streamlit.title('Star Hotel')
+streamlit.header('This is the Buffet Menu')
+streamlit.text('🥣 Noodles')
+streamlit.text('🥗 Veg bowl')
+streamlit.text('🐔 Chicken 65')
+streamlit.text('🥑 Avocado milkshake')
+streamlit.text('🍞 Bread pudding')
